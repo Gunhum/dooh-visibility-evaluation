@@ -2,6 +2,8 @@
 
 Automated pipeline to retrieve Street View images, detect DOOH advertising panels and rank their visibility using computer vision and zero-shot models.
 
+Google colab: https://colab.research.google.com/drive/109JGkKyGII14tGdXExDQO5kQpMwHNa_y?usp=sharing
+
 ## 🛠 Tech stack
 - Python
 - Jupyter / Google Colab
