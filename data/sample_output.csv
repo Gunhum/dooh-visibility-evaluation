@@ -1,0 +1,21 @@
+id,latitude,longitude,address,tree,barriers,traffic_signs,parked_car,street_lamp,score_final
+4,43.32898,5.43061,"Ave Jean Paul Sartre 13213",5.0,1.2,2.2,3.4,3.0,14.8
+2,43.28868,5.49929,"Ave Louis Regis Dir La Valentine 13211",1.0,0.0,1.0,7.0,3.0,12.0
+8,43.27226,5.39067,"316 Bd Du Prado 13208",4.0,1.0,3.5,1.0,2.0,11.5
+5,43.3011,5.39876,,1.6,1.6,2.6,2.2,1.0,9.0
+3,43.2885,5.38187,"3 Rue Dragon 13006 Marseille",0.6,2.0,3.2,3.0,0.0,8.8
+19,43.3519,5.43675,"44 AVENUE DE CHATEAU GOMBERT 13013 MARSEILLE",1.5,1.8,2.0,2.5,1.0,8.8
+6,43.2473,5.37418,"45 Avenue De La Pointe Rouge 13008 Marseille",1.2,2.0,0.5,3.2,1.2,8.1
+7,43.30566,5.36537,"Dev N° 6 Quai Lazaret Terrasses Du Port 13202",2.0,1.0,2.0,2.0,1.0,8.0
+9,43.27272,5.39037,"1 Bd Edouard Herriot 13008 Marseille",2.0,2.0,0.0,3.0,1.0,8.0
+17,43.30116,5.39867,,1.0,1.0,2.0,1.7,0.7,6.4
+14,43.27178,5.38653,"4 BLD EMILE SICARD 13008 MARSEILLE",2.8,0.6,1.8,0.6,0.6,6.4
+15,43.29628,5.38124,,0.0,1.0,3.0,1.0,1.0,6.0
+13,43.33507,5.45057,"29 GRAND RUE 13013 MARSEILLE",1.8,0.6,1.4,1.0,0.6,5.4
+11,43.29148,5.3805,"Crf City - 2 Place De Rome 13206",0.0,2.0,0.0,1.0,1.0,4.0
+16,43.29062,5.37576,"Crf City - Dev N°43 Rue Breteuil 13206",0.2,1.4,1.2,0.4,0.4,3.6
+18,43.29462,5.37643,"Dev N° 47 Rue Vacon / Paradis 13201",1.0,0.0,1.0,1.0,0.0,3.0
+0,43.29807,5.37094,"2 RUE MERY 13002 MARSEILLE",0.0,0.0,0.0,0.0,0.0,not_found
+1,43.3034,5.39492,"3 Bd Phillipon 13004 Marseille",0.0,0.0,0.0,0.0,0.0,not_found
+10,43.29665,5.375,"Crf Market - Dev N° 28 Rue Bir Hakeim 13201",0.0,0.0,0.0,0.0,0.0,not_found
+12,43.25256,5.38529,"40 AVENUE DE HAMBOURG 13008 MARSEILLE",0.0,0.0,0.0,0.0,0.0,not_found
